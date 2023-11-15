@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Конвертер\bin\Debug\net6.0\Конвертер.exe
+C:\Users\User\source\repos\Конвертер\bin\Debug\net6.0\Конвертер.deps.json
+C:\Users\User\source\repos\Конвертер\bin\Debug\net6.0\Конвертер.runtimeconfig.json
+C:\Users\User\source\repos\Конвертер\bin\Debug\net6.0\Конвертер.dll
+C:\Users\User\source\repos\Конвертер\bin\Debug\net6.0\Конвертер.pdb
+C:\Users\User\source\repos\Конвертер\obj\Debug\net6.0\Конвертер.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Конвертер\obj\Debug\net6.0\Конвертер.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Конвертер\obj\Debug\net6.0\Конвертер.AssemblyInfo.cs
+C:\Users\User\source\repos\Конвертер\obj\Debug\net6.0\Конвертер.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Конвертер\obj\Debug\net6.0\Конвертер.dll
+C:\Users\User\source\repos\Конвертер\obj\Debug\net6.0\refint\Конвертер.dll
+C:\Users\User\source\repos\Конвертер\obj\Debug\net6.0\Конвертер.pdb
+C:\Users\User\source\repos\Конвертер\obj\Debug\net6.0\Конвертер.genruntimeconfig.cache
+C:\Users\User\source\repos\Конвертер\obj\Debug\net6.0\ref\Конвертер.dll
+C:\Users\User\source\repos\Конвертер\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Конвертер\obj\Debug\net6.0\Конвертер.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Конвертер\obj\Debug\net6.0\Конвертер.csproj.CopyComplete
